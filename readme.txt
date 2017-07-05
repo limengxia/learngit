@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 add merge.
 do something in dev but not commit
 i m limengxia dev.
+I'm another git user.
+
